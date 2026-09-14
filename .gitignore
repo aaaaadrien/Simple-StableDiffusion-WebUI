@@ -1,1 +1,4 @@
 outputs
+__pycache__/
+*.pyc
+presets/*.json
